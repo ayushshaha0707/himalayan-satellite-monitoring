@@ -1,0 +1,6 @@
+{
+  "name": "TRINETRA — Himalayan Satellite Monitoring Station",
+  "description": "Multi-hazard risk intelligence, carrying capacity assessment, and geospatial satellite observation station for Joshimath and Vishnuprayag, Uttarakhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
